@@ -49,4 +49,14 @@ h1 {
 p {
 color: deeppink;
 
+
+marquee {
+  color: mediumpurple;
+  font-size: 200px;
+}
+
+
+
+}
+
 }
