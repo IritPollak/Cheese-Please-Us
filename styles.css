@@ -34,6 +34,11 @@ li {
 img {
   border: 10px dotted tomato;
 }
+
+img:hover {
+  border: 10px gold;
+}
+
 h1 {
   color: deeppink;
   font-size: 100px;
