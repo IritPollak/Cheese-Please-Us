@@ -46,16 +46,9 @@ h1 {
 
 p {
 color: deeppink;
+}
 
-
-.GeneratedMarquee {
+marquee.GeneratedMarquee {
   color: mediumpurple;
   font-size: 200px;
   }
-
-
-
-
-}
-
-}
