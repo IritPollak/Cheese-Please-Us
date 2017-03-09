@@ -1,7 +1,7 @@
 li {
-  color: darkcyan;
+  color:  ;
   font-size: 150%;
-  font-family: papyrus;
+  font-family: monospace;
   font-weight: bold;
   display: inline-block;
   padding: 50px;
@@ -12,6 +12,6 @@ img {
 h1 {
   color: darkorange;
   font-size: 100px;
-  font-family: helvetica;
+  font-family: monospace;
   padding-left: 20px;
 }
