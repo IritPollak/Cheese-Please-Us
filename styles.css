@@ -1,0 +1,17 @@
+li {
+  color: darkcyan;
+  font-size: 150%;
+  font-family: papyrus;
+  font-weight: bold;
+  display: inline-block;
+  padding: 50px;
+}
+img {
+  border: 10px dotted tomato;
+}
+h1 {
+  color: darkorange;
+  font-size: 100px;
+  font-family: helvetica;
+  padding-left: 20px;
+}
