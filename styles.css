@@ -3,7 +3,7 @@ li {
   font-size: 150%;
   font-family: monospace;
   font-weight: bold;
-  display: grid;
+  display: inline-block;
   padding: 50px;
 }
 img {
